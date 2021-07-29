@@ -11,4 +11,3 @@
   -> it works as soon as you remove the I18nRequestScopeService in authentication.service.ts
 
 
-As soon as I inject the  I18nRequestScopeService it creates issue with my local passport strategy.
