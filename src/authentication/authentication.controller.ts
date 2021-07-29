@@ -9,7 +9,7 @@ export class AuthenticationController {
     }
 
  @UseGuards(LocalAuthGuard)
-  @Post('login')
+  @Get('login')
   public async login() {
     return true;
   }
