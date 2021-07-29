@@ -2,3 +2,5 @@
 
 <a href="http://localhost:3000/authentication/login"> Api </a>
 
+
+As soon as I inject the  I18nRequestScopeService it creates issue with my local passport strategy.
